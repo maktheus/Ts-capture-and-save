@@ -1,0 +1,1 @@
+int tune(int frontend, unsigned int frequency);
